@@ -1,2 +1,2 @@
 # exercicios
-Exercicios de logia de programação.
+Exercicios de logica de programação.
